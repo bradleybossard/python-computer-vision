@@ -1,3 +1,7 @@
+"""
+Crop an image section, rotate it and paste it back in the original.
+"""
+
 from PIL import Image
 pil_im = Image.open('empire.jpg')
 
