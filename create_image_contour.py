@@ -1,3 +1,6 @@
+"""
+Create an image contour
+"""
 from PIL import Image
 from pylab import *
 # read image to array
