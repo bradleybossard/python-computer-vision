@@ -1,5 +1,5 @@
 """
-  Example for inverting an image.
+  Example for inverting an image. PCV 1.3, Graylevel transforms.
 """
 
 from PIL import Image
